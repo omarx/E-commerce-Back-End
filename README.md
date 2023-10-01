@@ -32,6 +32,7 @@ A straightforward ecommerce backend developed using Node.js, Express.js, Sequeli
 
 ## Screenshot
 
+![Screenshot 2023-10-01 at 8 40 26 AM](https://github.com/omarx/E-commerce-Back-End/assets/4944767/995d3649-4231-4377-9500-888f0f3f466f)
 
 
 ## Questions
